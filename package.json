@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/nikhil-gaur457/Apna_Grocery/issues"
   },
-  "homepage": "https://github.com/nikhil-gaur457/Apna_Grocery#readme"
+  "homepage": "https://github.com/nikhil-gaur457/Apna_Grocery#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.3.1"
+  }
 }
