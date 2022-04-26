@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/nikhil-gaur457/Apna_Grocery#readme",
   "dependencies": {
-    "express": "^4.17.3",
+    "express": "^4.18.0",
     "hbs": "^4.2.0",
-    "mongoose": "^6.3.1"
+    "mongoose": "^6.3.1",
+    "pug": "^3.0.2"
   }
 }
